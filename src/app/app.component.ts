@@ -37,7 +37,7 @@ export class AppComponent {
         studNumber: this.studNo,
         studFirstName: this.studFname,
         studLastName: this.studLname,
-        studProgram: this.studProg,
+        studProgram: this.studProg, 
         studYear: this.studYr
       };
       this.studentCollection.push
